@@ -130,7 +130,7 @@ Do you wish the installer to prepend the conda install location to PATH in your 
 
 <h3> Estruturação do Projeto: </h3>
 
-<p style='text-align: justify;'> Realizou-se a organização do projeto em diretórios com a finalidade de melhorar a  estruturação e organizaçções dos arquivos.</p>
+<p style='text-align: justify;'> O projeto foi estruturado da seguinte forma a seguir para obter a melhor organização dos seus arquivos.</p>
 
             Keras_Litologia
             .
